@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-elasticsearch deb admin optional arch=all
 Checksums-Sha1:
- 992c7f8ffff6a9369ad9baa357bcc588c33956c5 1324 ext-elasticsearch_1.0.0.orig.tar.xz
+ 8e11d02e84c6088dfc1fe417dcefd3af91a606d1 1324 ext-elasticsearch_1.0.0.orig.tar.xz
  6408eecdab4f75c06137388aa62f09e5e6fd44aa 736 ext-elasticsearch_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- eb6446a64ae64fc6236ad0c4f1a084ba643a635a07ef9fed3d2e375ae72fadaa 1324 ext-elasticsearch_1.0.0.orig.tar.xz
+ c4203defae1aa62992a5d0ba979063620c48c6b536d41a2182f118517700953d 1324 ext-elasticsearch_1.0.0.orig.tar.xz
  63a0892324f6bb0aaae62c8990d64512d440f3dcecc7bd7e6919eab89f6c98f3 736 ext-elasticsearch_1.0.0-1.debian.tar.xz
 Files:
- 9791056ea2651663ef50cef1ff3f1cff 1324 ext-elasticsearch_1.0.0.orig.tar.xz
+ 1b0d68dda38bdb68fcf2739e9872161d 1324 ext-elasticsearch_1.0.0.orig.tar.xz
  5d20f39e0188250065280f9bcfe24d37 736 ext-elasticsearch_1.0.0-1.debian.tar.xz

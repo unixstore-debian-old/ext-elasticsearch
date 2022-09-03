@@ -4,5 +4,5 @@
 3cc69ce118613f47424184e2530b19298ab74e664d5ca20f8eb42c49dd4e91be  _service
 4b9309a971b0ccf8934617c182803a99d0dab83a190fcfd9a97fd6a12f5478b3  build.log
 3e9a157c7665c21b91aeb7460afa359adc82052c90be25fe8281b805852e2a4d  ext-elasticsearch_1.0.0-1.debian.tar.xz
-c460d1d7020c6df49460c330aabea337107649a5e0ab6f91c82cd0592d10fc63  ext-elasticsearch_1.0.0-1.dsc
-f30e5b30dc58ce2005a963dcaaa2cc80b89a6aeb09026e150d2db1370a677a21  ext-elasticsearch_1.0.0.orig.tar.xz
+555342b8bdaedd684dbf08da4ca4dd7d5b76bc874b3879fc61df9581ebe13dcc  ext-elasticsearch_1.0.0-1.dsc
+959c4471e6f743b5734f672d1c9e22a708045ba6a56c5eaa483704e83bf64509  ext-elasticsearch_1.0.0.orig.tar.xz
